@@ -16,7 +16,7 @@ while True:
 "4. Average Marks\n"
 "5. Find Topper\n"
 "6. Delete Student\n"
-"7. Total number of Students"
+"7. Total number of Students\n"
 "8. Exit")
     print()
     a=int(input("Enter Your Choice: "))
@@ -100,4 +100,4 @@ while True:
 
     else :
         print("You are entering Non-Answerable Value ")
-        print("Please enter for 1 to 7")
+        print("Please enter from 1 to 8")
